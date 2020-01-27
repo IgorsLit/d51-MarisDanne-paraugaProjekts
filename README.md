@@ -8,7 +8,8 @@
 ## Izmantotās tehnoloģijas
 Projektā tiek izmantots:
 - HTML
-- CSS  
+- CSS
+  
 :information_source: *Uzskaitam visas gan valodas, gan frameworkus*
 
 ## Izmantotie avoti
