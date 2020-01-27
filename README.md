@@ -2,7 +2,7 @@
 :information_source: *Projekta nosaukums ir tieši tāds pats, kā kvalifikācijas darba nosaukums*
 
 ## Projekta apraksts
-Šis ir parauga projekts PIKT "Rīgas Valsts tehnikums" kvalifikācijas darba repozitorijam. Mājas lapa, kurā ir viens paragrāfs ar css formatējumu.  
+Šis ir parauga projekts PIKC "Rīgas Valsts tehnikums" kvalifikācijas darba repozitorijam. Mājas lapa, kurā ir viens paragrāfs ar css formatējumu.  
 :information_source: *Projekta aprakstā jāparādās, par ko ir projekts un kāds ir gala produkts, ko tas prot.*
 
 ## Izmantotās tehnoloģijas
