@@ -21,6 +21,6 @@ Projektā tiek izmantots:
 6. Dodamies uz WAMP atrašanās vietu parasti c:\wamp\www un izdzēšam tā saturu.
 7. Veicam labo klikšķi un izvēlamies opciju "git bash here" un izpildam zemāk raksīto komandu.
 ```
-git clone link
+git clone https://github.com/rvtprog-kvalifikacija-20/d43-MarisDanne-paraugaProjekts.git
 ```
 8. Atveram adresi http://127.0.0.1/d43-MarisDanne-paraugaProjekts/ 
