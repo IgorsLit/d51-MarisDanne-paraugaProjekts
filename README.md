@@ -13,9 +13,9 @@ Projektā tiek izmantots:
 :information_source: *Uzskaitam visas gan valodas, gan frameworkus*
 
 ## Izmantotie avoti
-[W3School](https://www.w3schools.com/html/default.asp) - tika ņemts example html kods.
+1. [W3School](https://www.w3schools.com/html/default.asp) - tika ņemts example html kods.
 
-[The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw) - kā pamats HTML, CSS apguvei skatījos videoklipu un apguvu kā pievienot CSS pie HTML.
+2. [The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw) - kā pamats HTML, CSS apguvei skatījos videoklipu un apguvu kā pievienot CSS pie HTML.
   
 :information_source: :exclamation: *Obligāti jānorāda visi avoti, kas ir izmantoti, kas ir skatīts, kāds kods ir kopēts, ja tas netiks norādīts un tiks identificēts, ka kods ir kopēts darbs netiks ieskaitīts.* :exclamation:
 
